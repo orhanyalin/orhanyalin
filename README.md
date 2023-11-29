@@ -10,7 +10,7 @@ My name is Yalin, still not sure why they call me yellin'
   <img height="26" src="https://connect.yalin.app/icons/react.png" title="React" />
 </a>
 <a href="https://gofiber.io/" target="_blank" >
-  <img height="26" src="https://connect.yalin.app/icons/gofiber.png" title="GoFİber" />
+  <img height="26" src="https://connect.yalin.app/icons/gofiber.png" title="GoFiber" />
 </a>
 <a href="https://nextjs.org/" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/nextjs.png" title="Nextjs" />
