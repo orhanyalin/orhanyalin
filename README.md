@@ -59,7 +59,10 @@ My name is Yalin, still not sure why they call me yellin'
   <img height="26" src="https://connect.yalin.app/icons/nodejs.png" title="nodejs" />
 </a>
 <a href="https://www.mongodb.com/" target="_blank" >
-  <img height="26" src="https://connect.yalin.app/icons/mongodb.png" title="MongoDB" />
+  <img height="26" src="https://connect.yalin.app/icons/mongodb.png?" title="MongoDB" />
+</a>
+<a href="https://www.nginx.com/" target="_blank" >
+  <img height="26" src="https://connect.yalin.app/icons/nginx.png" title="Nginx" />
 </a>
 <a href="https://redis.io/" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/redis.png" title="Redis" />
