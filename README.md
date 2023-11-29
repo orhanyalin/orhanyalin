@@ -1,4 +1,3 @@
-![sky](https://github.com/Tantoony/tantoony/assets/64890076/94ed5146-b8ef-4b3d-b76b-3e710e8a6b54)
 My name is Yalin, still not sure why they call me yellin'
 
 <hr />
@@ -90,5 +89,3 @@ My name is Yalin, still not sure why they call me yellin'
   <img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" />
 </p>
 </details>
-
-<img src="https://github.com/Tantoony/tantoony/assets/64890076/ce6108ad-b431-49f3-81ae-8806fd1d3d96" />
