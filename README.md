@@ -21,6 +21,9 @@ My name is Yalin, still not sure why they call me yellin'
 <a href="https://nestjs.com/" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/nestjs.png" title="Nestjs" />
 </a>
+<a href="https://gofiber.io/" target="_blank" >
+  <img height="26" src="https://connect.yalin.app/icons/gofiber.png" title="React" />
+</a>
 </div>
 </div>
 
@@ -40,6 +43,9 @@ My name is Yalin, still not sure why they call me yellin'
 </a>
 <a href="https://www.python.org/" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/python.png" title="python" />
+</a>  
+<a href="https://www.java.com/tr/" target="_blank" >
+  <img height="26" src="https://connect.yalin.app/icons/java.png" title="python" />
 </a>
 </div>
 </div>
