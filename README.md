@@ -43,8 +43,11 @@ My name is Yalin, still not sure why they call me yellin'
 <a href="https://www.python.org/" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/python.png" title="python" />
 </a>  
-<a href="https://www.java.com/tr/" target="_blank" >
+<a href="https://www.java.com/" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/java.png" title="java" />
+</a>
+<a href="https://www.php.net/" target="_blank" >
+  <img height="24" src="https://connect.yalin.app/icons/php.png" title="php" />
 </a>
 </div>
 </div>
@@ -54,7 +57,7 @@ My name is Yalin, still not sure why they call me yellin'
 <div>
 <p>Tools and softwares I use:</p>
 <div>
-<a href="https://nodejs.org/tr" target="_blank" >
+<a href="https://nodejs.org/" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/nodejs.png" title="nodejs" />
 </a>
 <a href="https://www.mongodb.com/" target="_blank" >
