@@ -1,5 +1,5 @@
-<h1>My name is Yalin, still not sure why they call me yellin'</h1>
-
+<h1>Orhan Yalın Öztürk</h1>
+<p>My name is Yalin, still not sure why they call me yellin'</p>
 <hr />
 
 <div>
