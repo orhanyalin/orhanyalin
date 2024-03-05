@@ -1,7 +1,13 @@
-<p>My name is Yalin, still not sure why they call me yellin'</p>
-<hr />
+<h1>Yalın Öztürk</h1>
 
-<div>
+> My name is Yalin, still not sure why they call me yellin'
+
+
+<table>  
+<tr>
+  <td>
+
+
 <p>Frameworks I use often:</p>
 <div>
 <a href="https://react.dev/" target="_blank" >
@@ -51,8 +57,6 @@
 </div>
 </div>
 
-<br/>
-
 <div>
 <p>Tools and softwares I use:</p>
 <div>
@@ -77,6 +81,10 @@
 </div>
 </div>
 <hr />
+
+  </td>
+</tr>
+  </table>
 <details>
   <summary>My spotify status</summary>
 <p>
@@ -91,3 +99,4 @@
   <img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" />
 </p>
 </details>
+  
