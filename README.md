@@ -85,14 +85,14 @@
   </td>
 </tr>
   </table>
-<details>
+<!-- <details>
   <summary>My spotify status</summary>
 <p>
 <a href="https://open.spotify.com/user/bsa431plyu8hiphpc0ggbsa25" target="_blank" >
   <img height="300" src="https://img.yalin.app/?" title="my spotify profile" />
 </a>
 </p>
-</details>
+</details> -->
 <details>
   <summary>Profile visit count</summary>
 <p>
