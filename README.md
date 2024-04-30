@@ -1,5 +1,3 @@
-<h1>Yalın Öztürk</h1>
-
 > My name is Yalin, still not sure why they call me yellin'
 
 <table>  
