@@ -2,7 +2,6 @@
 
 > My name is Yalin, still not sure why they call me yellin'
 
-
 <table>  
 <tr>
   <td>
@@ -97,6 +96,7 @@
   <summary>Profile visit count</summary>
 <p>
   <img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" />
+  <img height="26" src="https://svg.yalin.app/tantoony" title="Tantoony" />
 </p>
 </details>
   
