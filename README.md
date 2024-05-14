@@ -55,10 +55,10 @@
   <img height="26" src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" title="C" />
 </a>
 <a>
-  <img height="26" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" title="C" />
+  <img height="26" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" title="C#" />
 </a>
 <a>
-  <img height="26" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" title="C" />
+  <img height="26" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" title="C++" />
 </a>
 </div>
 </div>
