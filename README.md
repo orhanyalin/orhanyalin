@@ -33,15 +33,13 @@
 <div>
 <p>Programming languages that I can code:</p>
 <div>
-  <img height="26" src="https://connect.yalin.app/icons/ts.png" title="Typescript" />
-  <img height="26" src="https://connect.yalin.app/icons/golang.png" title="go" />
-  <img height="26" src="https://connect.yalin.app/icons/julia.png" title="Julia" />
-  <img height="26" src="https://connect.yalin.app/icons/python.png" title="python" />
-  <img height="26" src="https://connect.yalin.app/icons/java.png" title="java" />
-  <img height="24" src="https://connect.yalin.app/icons/php.png" title="php" />
-  <img height="26" src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" title="C" />
-  <img height="26" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" title="C#" />
-  <img height="26" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" title="C++" />
+  <img height="26" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" title="Typescript" />
+  <img height="26" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" title="golang" />
+  <img height="26" src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" title="java" />
+  <img height="24" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" title="php" />
+  <img height="26" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" title="C" />
+  <img height="26" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" title="C#" />
+  <img height="26" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" />
 </div>
 </div>
 
