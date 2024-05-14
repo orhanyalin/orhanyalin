@@ -51,6 +51,15 @@
 <a href="https://www.php.net/" target="_blank" >
   <img height="24" src="https://connect.yalin.app/icons/php.png" title="php" />
 </a>
+<a>
+  <img height="26" src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" title="C" />
+</a>
+<a>
+  <img height="26" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" title="C" />
+</a>
+<a>
+  <img height="26" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" title="C" />
+</a>
 </div>
 </div>
 
