@@ -10,8 +10,7 @@
     </thead>
         <tr>
             <td>
-              <div>Javascript</div>  
-              <div>Typescript</div>  
+              <div>Javascript/Typescript</div>
               <div>Golang</div>  
               <div>C</div>  
               <div>C#</div>  
