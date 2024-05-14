@@ -33,33 +33,15 @@
 <div>
 <p>Programming languages that I can code:</p>
 <div>
-<a href="https://www.typescriptlang.org/" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/ts.png" title="Typescript" />
-</a>
-<a href="https://go.dev/" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/golang.png" title="go" />
-</a>
-<a href="https://julialang.org/" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/julia.png" title="Julia" />
-</a>
-<a href="https://www.python.org/" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/python.png" title="python" />
-</a>  
-<a href="https://www.java.com/" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/java.png" title="java" />
-</a>
-<a href="https://www.php.net/" target="_blank" >
   <img height="24" src="https://connect.yalin.app/icons/php.png" title="php" />
-</a>
-<a>
   <img height="26" src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" title="C" />
-</a>
-<a>
   <img height="26" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" title="C#" />
-</a>
-<a>
   <img height="26" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" title="C++" />
-</a>
 </div>
 </div>
 
