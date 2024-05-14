@@ -14,8 +14,9 @@
               <div>Typescript</div>  
               <div>Golang</div>  
               <div>C</div>  
-              <div>C++</div>  
               <div>C#</div>  
+              <div>Java</div>  
+              <div>C++</div>  
               <div>PHP</div>  
             </td>
             <td>
