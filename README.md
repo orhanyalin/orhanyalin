@@ -42,7 +42,7 @@
 <details>
   <summary>My spotify status</summary>
 <p>
-<a href="https://open.spotify.com/user/yalinn" target="_blank" >
+<a href="https://github.com/yalinn" target="_blank" >
   <img height="300" src="https://img.yalin.app/yalinn" title="my spotify profile" />
 </a>
 </p>
@@ -50,8 +50,9 @@
 <details open>
   <summary>Profile visit count</summary>
 <p>
+<a href="https://github.com/yalinn" target="_blank" >
   <img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" />
-  <img height="26" src="https://svg.yalin.app/tantoony" title="Tantoony" />
+</a>
 </p>
 </details>
 
