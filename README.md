@@ -17,6 +17,7 @@
               <div>Java</div>  
               <div>C++</div>  
               <div>PHP</div>  
+              <div>Python</div>  
             </td>
             <td>
               <div>React</div>
