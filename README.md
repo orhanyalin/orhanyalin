@@ -47,7 +47,7 @@
 </a>
 </p>
 </details>
-<details>
+<details open>
   <summary>Profile visit count</summary>
 <p>
   <img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" />
