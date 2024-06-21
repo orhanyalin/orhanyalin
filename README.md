@@ -22,6 +22,7 @@
             <td>
               <div>React</div>
               <div>Go Fiber</div>
+              <div>Flask</div>
               <div>NextJS</div>
               <div>Fastify</div>
               <div>Tailwind</div>
