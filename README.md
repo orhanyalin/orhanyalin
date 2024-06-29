@@ -1,4 +1,5 @@
-> My name is Yalin, still not sure why they call me yellin'
+> [!NOTE]  
+> Seriously full stack software engineer!
 
 <table>
     <thead>
@@ -39,7 +40,9 @@
             </td>
         </tr>
 </table>
-  
+
+> My name is Yalin, still not sure why they call me yellin'
+
 <details>
   <summary>My spotify status</summary>
 <p>
