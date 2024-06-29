@@ -74,4 +74,4 @@
 </p>
 </details>
 
-[^1]: Joke is from "Heinz Mayonnaise", [see the product](https://www.heinz.com/en-CA/products/00057000000950-seriously-good-mayonnaise)
+[^1]: Joke is about "Heinz Mayonnaise",
