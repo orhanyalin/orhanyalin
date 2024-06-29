@@ -61,7 +61,7 @@
   <summary>My spotify status</summary>
 <p>
 <a href="https://github.com/yalinn" target="_blank" >
-  <img height="300" src="https://img.yalin.app/yalinn" title="my spotify profile" />
+  <img width="150" src="https://img.yalin.app/yalinn" title="my spotify profile" />
 </a>
 </p>
 </details>
