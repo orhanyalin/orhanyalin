@@ -1,5 +1,5 @@
 > [!NOTE]  
-> Seriously full stack software engineer!
+> [Seriously] Full Stack Software Engineer!
 
 <table>
     <thead>
