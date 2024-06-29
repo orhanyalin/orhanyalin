@@ -1,24 +1,37 @@
 > [!NOTE]  
 > [Seriously] Full Stack Software Engineer!
 
+
 <table>
     <thead>
         <tr>
-            <th>Programming languages</td>
+            <th colspan="2">Programming languages</td>
             <th>Frameworks</td>
             <th>Tools and softwares I use</td>
         </tr>
     </thead>
         <tr>
             <td>
-              <div>Javascript/Typescript</div>
-              <div>Golang</div>  
+              <div>Javascript</div>
+              <div>Typescript</div>
+              <div>Golang</div>
               <div>C</div>  
               <div>C#</div>  
               <div>Java</div>  
               <div>C++</div>  
               <div>PHP</div>  
               <div>Python</div>  
+            </td>
+            <td>
+              <div>▰▰▰▰▰▰</div>
+              <div>▰▰▰▰▰▰</div>
+              <div>▰▰▰▰▰▱</div>
+              <div>▰▰▰▱▱▱</div>
+              <div>▰▰▱▱▱▱</div>
+              <div>▰▰▰▰▱▱</div>
+              <div>▰▰▰▰▱▱</div>
+              <div>▰▰▱▱▱▱</div>
+              <div>▰▰▰▱▱▱</div>
             </td>
             <td>
               <div>React</div>
