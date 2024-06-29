@@ -47,6 +47,7 @@
               <div>NodeJS</div>
               <div>Unity</div>
               <div>MongoDB</div>
+              <div>PostgreSQL</div>
               <div>Redis</div>
               <div>Ubuntu</div>
               <div>Nginx</div>
