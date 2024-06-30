@@ -23,15 +23,15 @@
               <div>Python</div>  
             </td>
             <td>
-              <div>▰▰▰▰▰▰</div>
-              <div>▰▰▰▰▰▰</div>
-              <div>▰▰▰▰▰▱</div>
-              <div>▰▰▰▰▱▱</div>
-              <div>▰▰▰▱▱▱</div>
-              <div>▰▰▰▱▱▱</div>
-              <div>▰▰▰▰▱▱</div>
-              <div>▰▰▱▱▱▱</div>
-              <div>▰▰▰▱▱▱</div>
+              <div>▰▰▰▰▰</div>
+              <div>▰▰▰▰▰</div>
+              <div>▰▰▰▰▰</div>
+              <div>▰▰▰▰▱</div>
+              <div>▰▰▰▱▱</div>
+              <div>▰▰▰▱▱</div>
+              <div>▰▰▰▰▱</div>
+              <div>▰▰▱▱▱</div>
+              <div>▰▰▰▱▱</div>
             </td>
             <td>
               <div>React</div>
