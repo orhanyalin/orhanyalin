@@ -74,4 +74,4 @@
 </p>
 </details>
 
-[^1]: Joke is about "Heinz Mayonnaise",
+[^1]: Joke is about ["Heinz Mayonnaise"](https://d36rz30b5p7lsd.cloudfront.net/640/1605611158753.1752524011.png)
